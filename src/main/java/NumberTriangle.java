@@ -18,7 +18,7 @@ import java.io.*;
  * in this file. We have not included any code to enforce the structure noted above,
  * and you don't have to write any either.
  *
- *
+ *1
  * See NumberTriangleTest.java for a few basic test cases.
  *
  * Extra: If you decide to solve the Project Euler problems (see main),
